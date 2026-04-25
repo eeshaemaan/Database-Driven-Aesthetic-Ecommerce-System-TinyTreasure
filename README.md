@@ -1,10 +1,11 @@
-# Tiny Treasure Shop – Miniso-Inspired Desktop Application
+
+# 🛍️ Tiny Treasure Shop – Miniso-Inspired Desktop Application
 
 A C# desktop application inspired by Miniso, built for a Software Engineering course. The app allows users to browse products, add them to a cart, and generate bills. It connects to a remote **Aiven-managed MySQL** database for real-time stock tracking.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 * **Language:** C#
 * **Framework:** WinForms
@@ -13,18 +14,18 @@ A C# desktop application inspired by Miniso, built for a Software Engineering co
 
 ---
 
-## Features
+## 🔑 Features
 
-* **Product Browsing** – View product catalog with categories
-* **Add to Cart** – Select items and manage quantities
-* **Billing System** – Auto-generate and display bills
-* **Inventory Display** – Real-time stock info synced with MySQL
-* **Login System** (if you have one)
-* **Modular Code Structure** for maintainability
+* 🛒 **Product Browsing** – View product catalog with categories
+* ➕ **Add to Cart** – Select items and manage quantities
+* 🧾 **Billing System** – Auto-generate and display bills
+* 📦 **Inventory Display** – Real-time stock info synced with MySQL
+* 🔐 **Login System** (if you have one)
+* 🗂️ **Modular Code Structure** for maintainability
 
 ---
 
-## Software Engineering Process
+## 📐 Software Engineering Process
 
 * UML Diagrams: Activity, Sequence, Use Case and Class
 * Architecture Diagram
@@ -45,10 +46,14 @@ A C# desktop application inspired by Miniso, built for a Software Engineering co
     3. Ramalah Amir:
     Sprint 1: Major Role: User Stories + Trello (writing proper user stories & managing the Scrum Board), Mi- nor Role: C# UI implementation of 1 page
     Sprint 2: Implementation of Dynamic Product Detail Page and Database, User Stories, Managing Trello (writ- ing proper user stories & managing the Scrum Board), and Documentation
-    Sprint 3: Verifying Testing cases, User Stories, Managing Trello, Documentation, refining the UI
+    Sprint 3: Verifying Testing cases, User Stories, Man-
+    aging Trello, Documentation, refining the UI
+
+
+
 ---
 
-## Limitations / Future Work
+## 🚧 Limitations / Future Work
 
 * Add admin panel for inventory updates
 * Improve UI design and responsiveness
@@ -56,7 +61,7 @@ A C# desktop application inspired by Miniso, built for a Software Engineering co
 
 ---
 
-## How to Run
+## 📁 How to Run
 
 1. Clone the repo
 2. Open the `.sln` file in Visual Studio
@@ -65,7 +70,7 @@ A C# desktop application inspired by Miniso, built for a Software Engineering co
 
 ---
 
-## Contributors
+## 👨‍💻 Contributors
 
 * Ramalah Amir
 * Ayesha Amer
